@@ -73,6 +73,15 @@ My expertise spans from enterprise-grade **. NET applications** to cutting-edge 
 
 ## 📂 Featured Projects
 
+### 🌐 ASP.NET Platform
+> **Full-stack web application** with **ASP.NET Core**
+
+A modern web platform demonstrating:
+- C# backend development
+- Responsive frontend design
+- Full-stack architecture
+- Dependency Injection and MVVM architecture
+
 ### 🔐 DocLocker
 > **Cross-platform document automation** built with **. NET MAUI**
 
@@ -84,24 +93,10 @@ A fully functional application for automated Word document compilation and PDF g
 ### 🤖 [My-name-is-ROBERTO](https://github.com/Vinello28/My-name-is-ROBERTO)
 > **Python-based automation project**
 
-Showcasing Python scripting capabilities and automation workflows. 
-
-### 👁️ [Boost-a-Model](https://github.com/Vinello28/Boost-a-Model)
-> **Computer Vision & Deep Learning** for Visual Servoing
-
-A comprehensive project focused on training and evaluating different models and transformers:
-- Deep Learning architectures with **PyTorch**
-- Visual servoing applications
-- Model evaluation and benchmarking
-
-### 🌐 ASP.NET Platform
-> **Full-stack web application** with **ASP.NET Core**
-
-A modern web platform demonstrating:
-- C# backend development
-- Responsive frontend design
-- Full-stack architecture
-- Dependency Injection and MVVM architecture
+Project designed and developed initially for a one-shot classification. Actually is a powerful classifier that uses BERT, features includes:
+- Finetuned xlm-roBERTa model, on a RTX 3060TI
+- Easy to fit a precise task, even with few resources
+- Fluently executable in macOS as in windows or linux (ubuntu) platform
 
 ---
 
@@ -109,10 +104,12 @@ A modern web platform demonstrating:
 
 | Project | Description | Focus Area |
 |---------|-------------|------------|
-| [**Dora-the-Data-Explorer**](https://github.com/DataScience-Golddiggers/Dora-the-Data-Explorer) | Cybersecurity incident classification using Microsoft's GUIDE dataset | XGBoost, Feature Engineering, Multi-class Classification |
-| [**GoldenHour**](https://github.com/DataScience-Golddiggers/GoldenHour) | Time series forecasting for precious metals with geopolitical analysis | ARIMA/SARIMAX, Financial Data, Exogenous Variables |
-| [**Graph-of-America**](https://github.com/DataScience-Golddiggers/Graph-of-America) | Cybersecurity graph analysis with community detection | NetworkX, Louvain Algorithm, Centrality Metrics |
 | [**Uncounsciously-Sincere-Bot**](https://github.com/DataScience-Golddiggers/Uncounsciously-Sincere-Bot) | Conversational AI chatbot implementation | RASA Framework, Dialogue Management, ollama, postgres |
+| [**Graph-of-America**](https://github.com/DataScience-Golddiggers/Graph-of-America) | Cybersecurity graph analysis with community detection | NetworkX, Louvain Algorithm, Centrality Metrics |
+| [**Boost-a-Model**](https://github.com/Vinello28/Boost-a-Model) | Computer Vision & Deep Learning solution for Visual Servoing | ViT, GConvGRU, keypoint detection, PyTorch and CUDA optimization |
+| [**GoldenHour**](https://github.com/DataScience-Golddiggers/GoldenHour) | Time series forecasting for precious metals with geopolitical analysis | ARIMA/SARIMAX, Financial Data, Exogenous Variables |
+| [**Dora-the-Data-Explorer**](https://github.com/DataScience-Golddiggers/Dora-the-Data-Explorer) | Cybersecurity incident classification using Microsoft's GUIDE dataset | XGBoost, Feature Engineering, Multi-class Classification |
+
 
 ---
 
