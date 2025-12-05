@@ -116,11 +116,21 @@ A modern web platform demonstrating:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
+<!-- Streak Stats - più affidabile -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinello28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinello28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://streak-stats.demolab.com?user=Vinello28&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinello28&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinello28&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
