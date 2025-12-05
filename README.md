@@ -1,16 +1,157 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Gabriele Vianello 👋</h1>
 
-<!--
-**Vinello28/Vinello28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>MSc Student in AI & Data Science Engineering @ UnivPM | Junior Software Engineer | Freelance Developer</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:vianello.tech@gmail.com"><img src="https://img.shields.io/badge/Email-vianello.tech%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/Vinello28"><img src="https://img. shields.io/github/followers/Vinello28?label=Follow&style=social"></a>
+  <img src="https://komarev.com/ghpvc/?username=Vinello28&style=flat-square&color=blue" alt="Profile views">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a **full-stack software engineer** with a passion for building robust applications from the ground up.  Graduated from **Politecnico di Milano**, I'm now pursuing my Master's in **Artificial Intelligence and Data Science Engineering** at Università Politecnica delle Marche.
+
+My expertise spans from enterprise-grade **. NET applications** to cutting-edge **Deep Learning pipelines**, making me comfortable across the entire software development lifecycle. 
+
+📍 Based in **Ancona, Italy** | 💼 Open to opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & Desktop Development**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![. NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Data Science & Visualization**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+### **Conversational AI**
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+
+### **Frontend & Web**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 DocLocker
+> **Cross-platform document automation** built with **. NET MAUI**
+
+A fully functional application for automated Word document compilation and PDF generation. Features include:
+- Dynamic form generation from Word Content Controls
+- Template protection
+- Syncfusion integration for document processing
+
+### 🤖 [My-name-is-ROBERTO](https://github.com/Vinello28/My-name-is-ROBERTO)
+> **Python-based automation project**
+
+Showcasing Python scripting capabilities and automation workflows. 
+
+### 👁️ [Boost-a-Model](https://github.com/Vinello28/Boost-a-Model)
+> **Computer Vision & Deep Learning** for Visual Servoing
+
+A comprehensive project focused on training and evaluating different models and transformers:
+- Deep Learning architectures with **PyTorch**
+- Visual servoing applications
+- Model evaluation and benchmarking
+
+### 🌐 ASP.NET Platform
+> **Full-stack web application** with **ASP.NET Core**
+
+A modern web platform demonstrating:
+- C# backend development
+- Responsive frontend design
+- Full-stack architecture
+- Dependency Injection and MVVM architecture
+
+---
+
+## 📊 Team Projects @ DataScience-Golddiggers
+
+| Project | Description | Focus Area |
+|---------|-------------|------------|
+| [**Dora-the-Data-Explorer**](https://github.com/DataScience-Golddiggers/Dora-the-Data-Explorer) | Cybersecurity incident classification using Microsoft's GUIDE dataset | XGBoost, Feature Engineering, Multi-class Classification |
+| [**GoldenHour**](https://github.com/DataScience-Golddiggers/GoldenHour) | Time series forecasting for precious metals with geopolitical analysis | ARIMA/SARIMAX, Financial Data, Exogenous Variables |
+| [**Graph-of-America**](https://github.com/DataScience-Golddiggers/Graph-of-America) | Cybersecurity graph analysis with community detection | NetworkX, Louvain Algorithm, Centrality Metrics |
+| [**Uncounsciously-Sincere-Bot**](https://github.com/DataScience-Golddiggers/Uncounsciously-Sincere-Bot) | Conversational AI chatbot implementation | RASA Framework, Dialogue Management, ollama, postgres |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api? username=Vinello28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel. app/api/top-langs/? username=Vinello28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+---
+
+## 🎯 Core Competencies
+
+```text
+🏗️  Software Architecture    ████████████████████░░   85%
+🔧  . NET Ecosystem           ████████████████████░   90%
+🐍  Python Development       ████████████████████░░   85%
+🧠  Machine Learning         ███████████████████░░░   80%
+📊  Data Analysis            ████████████████████░░   85%
+🔬  Deep Learning            █████████████████████░   90%
+🌐  Web Development          ███████████████████░░░   80%
+```
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Deep Learning architectures
+- RAG and model deployment pipelines
+- Cloud-native application development
+- OR-Tools optimization algorithms
+
+---
+
+## 📫 Let's Connect! 
+
+<p align="center">
+  <a href="mailto:vianello.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Vinello28">
+    <img src="https://img. shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <em>💡 Open to collaborations on innovative projects at the intersection of software engineering and AI! </em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
