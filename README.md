@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gabriele Vianello 👋</h1>
 
 <p align="center">
-  <em>MSc Student in AI & Data Science Engineering @ UnivPM | Junior Software Engineer | Freelance Developer</em>
+  <em>MSc Student in AI & Data Science Engineering @ UnivPM</em>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack software engineer** with a passion for building robust applications from the ground up.  Graduated from **Politecnico di Milano**, I'm now pursuing my Master's in **Artificial Intelligence and Data Science Engineering** at Università Politecnica delle Marche.
+I'm a student with a passion for building robust applications from the ground up.  Graduated from **Politecnico di Milano**, I'm now pursuing my Master's in **Software and Automation Engineering** (AI & Data Science course) at Università Politecnica delle Marche.
 
 My expertise spans from enterprise-grade **. NET applications** to cutting-edge **Deep Learning pipelines**, making me comfortable across the entire software development lifecycle. 
 
-📍 Based in **Ancona, Italy** | 💼 Open to opportunities
+📍 Based in **Ancona, Italy** 
 
 ---
 
