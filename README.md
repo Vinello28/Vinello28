@@ -58,9 +58,9 @@ My expertise spans from enterprise-grade **. NET applications** to cutting-edge 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Blockchains**
-![Hardhat](https://img.shields.io/badge/Hardhat-3.20.0-FFF100?style=for-the-badge&labelColor=FFF100&logo=hardhat&logoColor=000000)
-![Solidity](https://img.shields.io/badge/Solidity-0.8.28-363636?style=for-the-badge&labelColor=363636&logo=solidity&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-6.17.0-2535A0?style=for-the-badge&labelColor=2535A0&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&labelColor=FFF100&logo=hardhat&logoColor=000000)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&labelColor=363636&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&labelColor=2535A0&logo=ethereum&logoColor=white)
 
 ### **Frontend & Web**
 [![Svelte 5](https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
