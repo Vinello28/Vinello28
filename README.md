@@ -30,9 +30,11 @@ My expertise spans from enterprise-grade **. NET applications** to cutting-edge 
 ![. NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SPLUNK](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+[![Tauri v2](https://img.shields.io/badge/Tauri_v2-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app/)
+[![Rust](https://img.shields.io/badge/Rust_2024-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go")]
 
-### **Artificial Intelligence**
+### **Machine Learning & Deep Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
@@ -40,6 +42,7 @@ My expertise spans from enterprise-grade **. NET applications** to cutting-edge 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
 
 ### **Data Science & Visualization**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -53,10 +56,13 @@ My expertise spans from enterprise-grade **. NET applications** to cutting-edge 
 ![DUCKDB](https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Conversational AI**
-![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+### **Blockchains**
+![Hardhat](https://img.shields.io/badge/Hardhat-3.20.0-FFF100?style=for-the-badge&labelColor=FFF100&logo=hardhat&logoColor=000000)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.28-363636?style=for-the-badge&labelColor=363636&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-6.17.0-2535A0?style=for-the-badge&labelColor=2535A0&logo=ethereum&logoColor=white)
 
 ### **Frontend & Web**
+[![Svelte 5](https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,54 +72,13 @@ My expertise spans from enterprise-grade **. NET applications** to cutting-edge 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SPLUNK](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 [![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co)
 [![CUDA](https://img.shields.io/badge/CUDA-13-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Fedora44](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu26](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🌐 ASP.NET Platform
-> **Full-stack web application** with **ASP.NET Core**
-
-A modern web platform demonstrating:
-- C# backend development
-- Responsive frontend design
-- Full-stack architecture
-- Dependency Injection and MVVM architecture
-
-### 🔐 DocLocker
-> **Cross-platform document automation** built with **. NET MAUI**
-
-A fully functional application for automated Word document compilation and PDF generation. Features include:
-- Dynamic form generation from Word Content Controls
-- Template protection
-- Syncfusion integration for document processing
-
-### 🤖 [My-name-is-ROBERTO](https://github.com/Vinello28/My-name-is-ROBERTO)
-> **Python-based automation project**
-
-Project designed and developed initially for a one-shot classification. Actually is a powerful classifier that uses BERT, features includes:
-- Finetuned xlm-roBERTa model, on a RTX 3060TI
-- Easy to fit a precise task, even with few resources
-- Fluently executable in macOS as in windows or linux (ubuntu) platform
-
----
-
-## 📊 Team Projects @ DataScience-Golddiggers
-
-| Project | Description | Focus Area |
-|---------|-------------|------------|
-| [**Uncounsciously-Sincere-Bot**](https://github.com/DataScience-Golddiggers/Uncounsciously-Sincere-Bot) | Conversational AI chatbot implementation | RASA Framework, Dialogue Management, ollama, postgres |
-| [**Graph-of-America**](https://github.com/DataScience-Golddiggers/Graph-of-America) | Cybersecurity graph analysis with community detection | NetworkX, Louvain Algorithm, Centrality Metrics |
-| [**Boost-a-Model**](https://github.com/Vinello28/Boost-a-Model) | Computer Vision & Deep Learning solution for Visual Servoing | ViT, GConvGRU, keypoint detection, PyTorch and CUDA optimization |
-| [**GoldenHour**](https://github.com/DataScience-Golddiggers/GoldenHour) | Time series forecasting for precious metals with geopolitical analysis | ARIMA/SARIMAX, Financial Data, Exogenous Variables |
-| [**Dora-the-Data-Explorer**](https://github.com/DataScience-Golddiggers/Dora-the-Data-Explorer) | Cybersecurity incident classification using Microsoft's GUIDE dataset | XGBoost, Feature Engineering, Multi-class Classification |
-
 
 ---
 
